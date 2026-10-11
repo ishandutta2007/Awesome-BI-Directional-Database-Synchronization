@@ -78,7 +78,7 @@ The bi-directional database synchronization market spans **CRM-native sync tools
 
 ## 🔓 Open-Source GitHub Projects
 
-*Sorted by GitHub Stars Count (Descending)* 🌟
+*Sorted by GitHub_Stars_Count (Descending)* 🌟
 
 - **[Airbyte](https://github.com/airbytehq/airbyte)** [![Stars](https://img.shields.io/github/stars/airbytehq/airbyte?style=social&color=white)](https://github.com/airbytehq/airbyte/stargazers) 🌊  
   **Leading open-source data integration engine & ELT/reverse ETL framework**, ELv2 licensed. Supports **300+ pre-built connectors**, bi-directional orchestration workflows, real-time database CDC sync via Debezium integration, and declarative schema migrations. Ideal for cloud, self-hosted Docker, and Kubernetes clusters. 🚀
@@ -115,7 +115,7 @@ Contributions are welcome! Follow these steps to submit new bi-directional sync 
 
 1. 🍴 **Fork** the repository.
 2. 📝 **Add/edit** entries in `README.md` maintaining table/list structure and formatting.
-3. 🔗 Include project title, official website/GitHub link, exact star badge link, license, and brief description.
+3. 🔗 Include project title, official website/GitHub link, exact Stars_Badge link, license, and brief description.
 4. 🚀 Submit a **Pull Request** with a descriptive summary of your changes.
 
 ---
