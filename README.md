@@ -1,5 +1,3 @@
-# Awesome-BI-Directional-Database-Synchronization
-
 # Awesome-BI-Directional-Database-Synchronization 🔄 🗄️
 
 <p align="center">
